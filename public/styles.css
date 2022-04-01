@@ -15,11 +15,6 @@
   padding-top: 5px;
   margin-right: 5px;
   
-
-
-  
-
-  
 }
 .font{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -27,3 +22,61 @@
 .Daily{
   display: flex;
 }
+
+/* my changes */
+
+body{
+  margin: 0;
+}
+
+h1{
+  padding-top: 2rem;
+  margin: 0;
+  font-weight: normal;
+}
+p{
+  margin: 0;
+}
+table{
+  border: 1pxsolid
+}
+td{
+  padding: 0 1rem 0 1rem;
+}
+span{
+  font-size: 3rem ;
+  position:relative;
+  bottom: 2.8125rem;
+}
+.icon{
+  color: #f9d71c;
+}
+.btn {
+  font-size: 2rem;
+  border-style: hidden;
+  background-color: #92A9BD;
+  color: #fff;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
+.degree{
+  font-size: 7rem;
+  margin: 0;
+}
+.top-container{
+  background-color: #92A9BD;
+  text-align: center;
+  color: #fff;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wind{
+    font-size: 2rem;
+    padding: 0.5rem;
+}
+.btn:hover{
+ color: #D3D3D3;
+}
+
+/* my changes finish */
