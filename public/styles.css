@@ -1,0 +1,29 @@
+.tempdailyhigh{
+  font-size: xx-large;
+}
+.tempdailylow{
+  font-size:x-large;
+}
+.daily{
+  background-color:grey;
+  
+  border-radius: 25px;
+  width: fit-content;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  margin-right: 5px;
+  
+
+
+  
+
+  
+}
+.font{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Daily{
+  display: flex;
+}
